@@ -3,7 +3,7 @@ Hier sammeln wir Dokumentation zu Datenquellen, Projekten und Ideen zum Thema Op
 
 Ein erster Schritt wird wohl erstmal eine Bestandsaufnahme der existierenden und geplanten Projekte sein.
 
-Über Ideen und weitere Hinweise freuen wir uns in unserm [Issue-Tracker](https://github.com/codefordarmstadt/codefordarmstadt). :)
+Über Ideen und weitere Hinweise freuen wir uns in unserm [Issue-Tracker](https://github.com/codefordarmstadt/codefordarmstadt/issues). :)
 
 ## Beschlüsse/Aktivitäten der Stadt Darmstadt
 ### Formate und Projekte der Stadt
