@@ -1,13 +1,21 @@
-# OK-Lab Darmstadt
-Sachen, die im Zusammenhang mit dem OK-Lab Darmstadt stehen könnten.
+# Code for Darmstadt
+Hier sammeln wir Dokumentation zu Datenquellen, Projekten und Ideen zum Thema Open Data in Darmstadt und Umgebung.
 
-Ein erster Teil wird wohl erstmal eine Bestandsaufnahme der existierenden und geplanten Projekte sein.
+Ein erster Schritt wird wohl erstmal eine Bestandsaufnahme der existierenden und geplanten Projekte sein.
 
-## Aktuelle Projekte
-* Es gibt einen ersten Prototypen für einen mobilen [Stadtatlas Darmstadt](https://stadtatlas.darmstadt.de/). Aktuell für Android, aber theoretisch leicht portierbar, da in [Dart](https://dart.dev/)/[Flutter](https://flutter.dev/) geschrieben.
+Über Ideen und weitere Hinweise freuen wir uns in unserm [Issue-Tracker](https://github.com/codefordarmstadt/codefordarmstadt). :)
 
 ## Beschlüsse/Aktivitäten der Stadt Darmstadt
-### Open Data
+### Formate und Projekte der Stadt
+- Die Digitalstadt Darmstadt veranstaltet ein [Stadtlabor](https://www.digitalstadt-darmstadt.de/stadtlabor/) mit Bürger:innenbeteiligung.
+- [Smart-City-Projekt „Smart Water City“](https://www.darmstadt.de/standort/stadtentwicklung-und-stadtplanung/schlaues-wasser-darmstadt) (Projektbudget: 14,7 Mio €) zu „smratem Wassermanagement auf Basis digitaler und weiterer Innovationstechnologien“
+
+### Informationsangebote der Stadt
+- [Informationsseite zum Thema Open Data](https://www.darmstadt.de/standort/statistik-und-stadtforschung/open-data) der Abteilung Statistik und Stadtforschung
+- [Informationsseite zur Informationsfreiheitssatzung](https://www.darmstadt.de/rathaus/buerger-dialog/informationsfreiheitssatzung) der Bürgerbeauftragten
+- [Datenplattform der Stadt](https://datenplattform.darmstadt.de/) (*keine* Open-Data-Plattform, sondern nur Visualisierungen)
+
+### Beschlüsse zu Open Data
 - 16.06.2021: [Magistratsvorlage - Aufbau einer einheitlichen Geodateninfrastruktur in Darmstadt](https://darmstadt.more-rubin1.de/meeting.php?id=ni_2021-Mag-677&agenda_item=ni_2021-Mag-677%7C202121606100176%7C1&suchbegriffe=open+data&select_koerperschaft=&select_gremium=&datum_von=2006-01-11&datum_bis=2022-12-13&richtung=ASC&entry=&kriterium=be&x=17&y=13)
     - Der Magistrat nimmt zur Kenntnis, dass das Vermessungsamt in Kooperation mit dem Amt für Digitalisierung und IT, sowie den Ämtern und Verwaltungsstellen die Geodatenbestände aufbauen und aktuell halten, die Voraussetzungen zu Umsetzung der stadtweiten Geodateninfrastruktur schafft.
 - 11.02.2021: [Beschluss der Stadtverordnetenversammlung - Open-Data-Strategie der Wissenschaftsstadt Darmstadt](https://darmstadt.more-rubin1.de/vorlagen_details.php?vid=202121812100005)
@@ -23,41 +31,37 @@ Ein erster Teil wird wohl erstmal eine Bestandsaufnahme der existierenden und ge
     - Einrichtung einer Open-Data-Plattform
     - Einrichtung AG Open Data
 
-### Informationsfreiheitssatzung
+### Beschlüsse zur Informationsfreiheit
 - 18.11.2021: [Magistratsvorlage 2021/0363 -  Erlass einer Informationsfreiheitssatzung](https://darmstadt.more-rubin1.de/vorlagen_details.php?vid=202121811100364)
     - Im Büro der Bürgerbeauftragten wird über den Stellenplan 2022 eine Stelle für eine:n Informationsfreiheitsbeauftragte:n geschaffen.
     - Die Informationsfreiheitssatzung regelt, dass das Hess. IFG auch für die Stadt Darmstadt gilt (nach § 81 Abs. 1, Nr 7 HDSIG)
     - Inkrafttreten am 1. April 2022
+    - Anfragen an die [Stadt Darmstadt](https://fragdenstaat.de/behoerde/9566/gemeinde-darmstadt/) auf FragDenStaat
 - 10.11.2020: [Beschluss eines Prüfauftrags für einen Entwurf einer Informationsfreiheitssatzung bis Ende 2021](https://darmstadt.more-rubin1.de/beschluesse_details.php?vid=341111100065&nid=ni_2021-Stavo-154&status=1&suchbegriffe=informationsfreiheitssatzung&select_koerperschaft=&select_gremium=&datum_von=2006-01-11&datum_bis=2021-12-14&richtung=ASC&entry=&kriterium=be&x=9&y=19)
     - https://ddrm.de/jetzt-doch-eine-informationsfreiheitssatzung-fuer-darmstadt-auch-mit-den-stimmen-von-gruenen-und-cdu/
 
-## Was gibt es in Darmstadt?
-* Die Digitalstadt Darmstadt veranstaltet ein [Stadtlabor](https://www.digitalstadt-darmstadt.de/stadtlabor/) mit Bürger:innenbeteiligung.
-
-### Karten
-[Hier eine erste Übersicht](https://der-spielmann.eu/index.php/12-karten-von-darmstadt-und-hessen)
-
-### Datenplattform
-- Im Rahmen der Digitalstadt Darmstadt soll Darmstadt eine Datenplattform bekommen. Ausschreibung sollte Ende 2019 Enden und in 2020 sollen erste Daten darüber verfügbar sein.
-- [Update 30.7.2020] Das ist keine Open Data Plattform, Zugriff auf Daten kann man auf Anfrage bekommen, Ende 2021 wird voraussichtlich ein Dashboard öffentlich verfügbar sein.
-- Link zur [Datenplattform](https://datenplattform.darmstadt.de/)
+## Aktuelle Projekte
+* Es gibt einen ersten Prototypen für einen mobilen [Stadtatlas Darmstadt](https://stadtatlas.darmstadt.de/). Aktuell für Android, aber theoretisch leicht portierbar, da in [Dart](https://dart.dev/)/[Flutter](https://flutter.dev/) geschrieben.
+* [Visualisierungen der Beteiligungen der HEAG-Unternehmensgruppe](https://shells.darmstadt.ccc.de/~fluxx/heagmap/) - [Quellcode](https://git.darmstadt.ccc.de/fluxx/heagmap)
+* Sehr, sehr wichtiges und *total ernst* gemeintes [Firefox-Addon](https://addons.mozilla.org/en-US/firefox/addon/digitalstadt-darmstadt/), dass „Darmstadt“ durch „Digitalstadt Darmstadt“ ersetzt - [Quellcode](https://github.com/codedust/firefox-digdarm)
+* [Projekte von Code for Germany (deutschlandweit)](https://codefor.de/projekte/)
 
 ## Datenquellen
-Wo bekommt man Daten her? Welche Lizenz haben die? (Wie) Kommt man an die maschinenlesbaren Daten?
+Wo bekommt man Daten her? Welche Lizenz haben sie? (Wie) Kommt man an die maschinenlesbaren Daten?
 
 Seit 2018 betreibt die Stadt Darmstadt laut Open-Data-Strategie ein Open-Data-Portal. Bisher (Stand: Nov 2021) sind dort jedoch noch keine Daten veröffentlicht worden. Der Link zum Open-Data-Portal ist nicht bekannt.
 
 ### Darmstadt
-Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visualisierung?
-* Lärmdaten von DaSense?
-* Telekom Messstationen
+Was gibt es in Darmstadt schon für offene Daten?
 * [Verkehrsdaten (Visualisierung)](https://darmstadt.ui-traffic.de/), auch [auf der Datenplattform](https://datenplattform.darmstadt.de/verkehr/apps/uitraffic)
   * [Verkehrsdaten (Rohdaten)](https://datenplattform.darmstadt.de/verkehr/apps/opendata/#/), vormals [hier](https://darmstadt.ui-traffic.de/faces/TrafficData.xhtml)
   * Die LSAs (Ampeln) finden sich auch in OpenStreetMap [hier](https://overpass-turbo.eu/s/X50) mit Overpass-QL abgefragt werden. (Query: `relation[type=traffic_signals_set](49.78, 8.52, 49.97, 8.77);(._;>>;);out meta;`)
-* [Stadtatlas Darmstadt](https://www.darmstadt.de/darmstadt-erleben/stadtplan/) ([Direktlink](https://stadtatlas.darmstadt.de/))
-  * [Beschlusslandkarte](https://stadtatlas.darmstadt.de/beschlusslandkarte.html)
-  * [Straßenbenennung 2019](http://stadtatlas.darmstadt.de/Strassenbenennung_2019.pdf)
-  * [API](stadtatlas-api.md)
+* Karten
+  * [Hier eine erste Übersicht](https://der-spielmann.eu/index.php/12-karten-von-darmstadt-und-hessen)
+  * [Stadtatlas Darmstadt](https://www.darmstadt.de/darmstadt-erleben/stadtplan/) ([Direktlink](https://stadtatlas.darmstadt.de/))
+    * [Beschlusslandkarte](https://stadtatlas.darmstadt.de/beschlusslandkarte.html)
+    * [Straßenbenennung 2019](http://stadtatlas.darmstadt.de/Strassenbenennung_2019.pdf)
+    * [API](stadtatlas-api.md)
 * [Stadtlexikon](https://www.darmstadt-stadtlexikon.de/stadtlexikon-darmstadt.html)
 * [Ratsinformationssystem](https://ris.darmstadt.de)
   * auch über [diesen Link](https://darmstadt.more-rubin1.de/) erreichbar
@@ -69,6 +73,8 @@ Was gibt es in Darmstadt schon für offene Daten? Nur die Daten, oder auch Visua
 * [Daten des Statistikamtes als PDF :(](https://www.darmstadt.de/standort/statistik-und-stadtforschung)
 * [Freifunk Dashboard (Grafana)](https://stats.darmstadt.freifunk.net/)
 * [Daten zur Trinkwasserqualität der Entega](https://www.entega.ag/geschaeftsfelder/oeffentl-rechtl-betriebsfuehrung/trinkwasserversorgung/)
+* Lärmdaten von DaSense?
+* Telekom Messstationen
 
 ### Frankfurt
 * [Baumkataster](https://geoinfo.frankfurt.de/karten/baumkataster.html)
@@ -103,7 +109,6 @@ Was gibt es Weltweit für interessante Daten? Gibts schon ne Übersicht?
 
 ## Andere Interessante Projekte
 Was gibt es schon in anderen Städten, was auch für Darmstadt interessant und adaptierbar wäre? (z.B. Software, Plattform, Öffentlichkeitsareit, Bürgerbeteiligung)
-* Visualisierung der Beteiligungen der HEAG gibt es [hier](https://shells.darmstadt.ccc.de/~fluxx/heagmap/). Datengrundlage ist der Beteiligungsbericht aus 2017.
 
 ## Offene Fragen
 Welche sinnvollen Fragen können vom Öffnen neuer Datenquellen oder der Visualisierung profitieren?
@@ -114,8 +119,8 @@ Welche sinnvollen Fragen können vom Öffnen neuer Datenquellen oder der Visuali
 ## Weitere zivilgesellschaftliche Akteure
 ### Darmstadt:
 * [Chaos Darmstadt e.V.](http://chaos-darmstadt.de/)
-* [Freifunk Darmstadt](http://darmstadt.freifunk.net/)
 * [Computerwerk Darmstadt e.V.](http://computerwerk.org/)
+* [Freifunk Darmstadt](http://darmstadt.freifunk.net/)
 * [Digitale Darmstadt e.V.](http://digitale-darmstadt.de/)
 * [Offenes Darmstadt](http://offenesdarmstadt.de/)
 * [DaLUG](http://www.dalug.org/)
