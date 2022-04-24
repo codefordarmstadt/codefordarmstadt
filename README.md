@@ -5,6 +5,9 @@ Ein erster Schritt wird wohl erstmal eine Bestandsaufnahme der existierenden und
 
 Über Ideen und weitere Hinweise freuen wir uns in unserm [Issue-Tracker](https://github.com/codefordarmstadt/codefordarmstadt/issues). :)
 
+## Wissenswertes zum Thema Open Data
+Eine kuratierte Liste hilfreicher Informationen und Literatur zum Thema Offene Daten findet sich [in der Awesome-Liste von Code for Osnabrück](https://github.com/codeforosnabrueck/awesome-opendata-german).
+
 ## Beschlüsse/Aktivitäten der Stadt Darmstadt
 ### Formate und Projekte der Stadt
 - Die Digitalstadt Darmstadt veranstaltet ein [Stadtlabor](https://www.digitalstadt-darmstadt.de/stadtlabor/) mit Bürger:innenbeteiligung.
