@@ -3,7 +3,7 @@ Hier sammeln wir Dokumentation zu Datenquellen, Projekten und Ideen zum Thema Op
 
 Ein erster Schritt wird wohl erstmal eine Bestandsaufnahme der existierenden und geplanten Projekte sein.
 
-Über Ideen und weitere Hinweise freuen wir uns in unserm [Issue-Tracker](https://github.com/codefordarmstadt/codefordarmstadt/issues). :)
+In unserm [Issue-Tracker](https://github.com/codefordarmstadt/codefordarmstadt/issues) sammeln wir Ideen, weitere Hinweise rund um Open Data, Open Source, Verwaltungsdigitalisierung, Projektideen und Forderungen an die Stadt. ;)
 
 ## Wissenswertes zum Thema Open Data
 Eine kuratierte Liste hilfreicher Informationen und Literatur zum Thema Offene Daten findet sich [in der Awesome-Liste von Code for Osnabrück](https://github.com/codeforosnabrueck/awesome-opendata-german).
@@ -115,9 +115,6 @@ Was gibt es Europaweit für interessante Daten? Gibts schon ne Übersicht?
 Was gibt es Weltweit für interessante Daten? Gibts schon ne Übersicht?
 * (OpenStreetMap)[https://www.openstreetmap.org/#map=12/49.8614/8.6837] ist eine Plattform für freie Geodaten und die Karten nur eine Dienstform, die darauf aufbauen. Interessant ist da auch die [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API), mit der man Geodaten abfragen kann.
 * Satellitenbilder
-
-## Andere Interessante Projekte
-Was gibt es schon in anderen Städten, was auch für Darmstadt interessant und adaptierbar wäre? (z.B. Software, Plattform, Öffentlichkeitsareit, Bürgerbeteiligung)
 
 ## Offene Fragen
 Welche sinnvollen Fragen können vom Öffnen neuer Datenquellen oder der Visualisierung profitieren?
