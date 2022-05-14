@@ -46,7 +46,10 @@ Eine kuratierte Liste hilfreicher Informationen und Literatur zum Thema Offene D
 - 10.11.2020: [Beschluss eines Prüfauftrags für einen Entwurf einer Informationsfreiheitssatzung bis Ende 2021](https://darmstadt.more-rubin1.de/beschluesse_details.php?vid=341111100065&nid=ni_2021-Stavo-154&status=1&suchbegriffe=informationsfreiheitssatzung&select_koerperschaft=&select_gremium=&datum_von=2006-01-11&datum_bis=2021-12-14&richtung=ASC&entry=&kriterium=be&x=9&y=19)
     - https://ddrm.de/jetzt-doch-eine-informationsfreiheitssatzung-fuer-darmstadt-auch-mit-den-stimmen-von-gruenen-und-cdu/
 
-## Aktuelle Projekte
+## In the news
+- [codefor.de: Informationsfreiheit, kleine Schritte und doch noch ein langer Weg – Out in the Open April 2022](https://codefor.de/blog/out-in-the-open-april-2022/)
+
+## Projekte
 * Es gibt einen ersten Prototypen für einen mobilen [Stadtatlas Darmstadt](https://stadtatlas.darmstadt.de/). Aktuell für Android, aber theoretisch leicht portierbar, da in [Dart](https://dart.dev/)/[Flutter](https://flutter.dev/) geschrieben.
 * [Visualisierungen der Beteiligungen der HEAG-Unternehmensgruppe](https://shells.darmstadt.ccc.de/~fluxx/heagmap/) - [Quellcode](https://git.darmstadt.ccc.de/fluxx/heagmap)
 * Sehr, sehr wichtiges und *total ernst* gemeintes [Firefox-Addon](https://addons.mozilla.org/en-US/firefox/addon/digitalstadt-darmstadt/), dass „Darmstadt“ durch „Digitalstadt Darmstadt“ ersetzt - [Quellcode](https://github.com/codedust/firefox-digdarm)
