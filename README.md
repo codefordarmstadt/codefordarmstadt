@@ -40,6 +40,9 @@ Eine kuratierte Liste hilfreicher Informationen und Literatur zum Thema Offene D
     - Die Informationsfreiheitssatzung regelt, dass das Hess. IFG auch für die Stadt Darmstadt gilt (nach § 81 Abs. 1, Nr 7 HDSIG)
     - Inkrafttreten am 1. April 2022
     - Anfragen an die [Stadt Darmstadt](https://fragdenstaat.de/behoerde/9566/gemeinde-darmstadt/) auf FragDenStaat
+    - [Interne Handreichungen zu Auskunfsersuchen nach der Informationsfreiheitssatzung](https://fragdenstaat.de/anfrage/dienstanweisung-bezuglich-auskunften/695623/anhang/Handreichung.pdf)
+    - [Interner Workflow zur Bearbeitung von Anträgen nach dem HDSIG](https://fragdenstaat.de/anfrage/dienstanweisung-bezuglich-auskunften/695623/anhang/Workflow.pdf)
+    - [Rundverfügung 2020-32 zum Umgang mit Anfragen nach HUIG, HDSIG, HVwVfG, SGB X und VIG](https://fragdenstaat.de/anfrage/rundverfugungen-zu-transparenzgesetzen/697308/anhang/rv32-2020.pdf)
 - 10.11.2020: [Beschluss eines Prüfauftrags für einen Entwurf einer Informationsfreiheitssatzung bis Ende 2021](https://darmstadt.more-rubin1.de/beschluesse_details.php?vid=341111100065&nid=ni_2021-Stavo-154&status=1&suchbegriffe=informationsfreiheitssatzung&select_koerperschaft=&select_gremium=&datum_von=2006-01-11&datum_bis=2021-12-14&richtung=ASC&entry=&kriterium=be&x=9&y=19)
     - https://ddrm.de/jetzt-doch-eine-informationsfreiheitssatzung-fuer-darmstadt-auch-mit-den-stimmen-von-gruenen-und-cdu/
 
