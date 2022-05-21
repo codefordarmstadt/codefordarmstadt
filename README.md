@@ -3,7 +3,7 @@ Hier sammeln wir Dokumentation zu Datenquellen, Projekten und Ideen zum Thema Op
 
 Ein erster Schritt wird wohl erstmal eine Bestandsaufnahme der existierenden und geplanten Projekte sein.
 
-In unserm [Issue-Tracker](https://github.com/codefordarmstadt/codefordarmstadt/issues) sammeln wir Ideen, weitere Hinweise rund um Open Data, Open Source, Verwaltungsdigitalisierung, Projektideen und Forderungen an die Stadt. ;)
+In unserm [Issue-Tracker](https://github.com/codefordarmstadt/codefordarmstadt/issues) sammeln wir Ideen, weitere Hinweise rund um Open Data, Open Source, Verwaltungsdigitalisierung, Projektideen und Forderungen an die Stadt.
 
 ## Wissenswertes zum Thema Open Data
 Eine kuratierte Liste hilfreicher Informationen und Literatur zum Thema Offene Daten findet sich [in der Awesome-Liste von Code for Osnabrück](https://github.com/codeforosnabrueck/awesome-opendata-german).
@@ -11,7 +11,7 @@ Eine kuratierte Liste hilfreicher Informationen und Literatur zum Thema Offene D
 ## Beschlüsse/Aktivitäten der Stadt Darmstadt
 ### Formate und Projekte der Stadt
 - Die Digitalstadt Darmstadt veranstaltet ein [Stadtlabor](https://www.digitalstadt-darmstadt.de/stadtlabor/) mit Bürger:innenbeteiligung.
-- [Smart-City-Projekt „Smart Water City“](https://www.darmstadt.de/standort/stadtentwicklung-und-stadtplanung/schlaues-wasser-darmstadt) (Projektbudget: 14,7 Mio €) zu „smratem Wassermanagement auf Basis digitaler und weiterer Innovationstechnologien“
+- [Smart-City-Projekt „Smart Water City“](https://www.darmstadt.de/standort/stadtentwicklung-und-stadtplanung/schlaues-wasser-darmstadt) (Projektbudget: 14,7 Mio €) zu „smartem Wassermanagement auf Basis digitaler und weiterer Innovationstechnologien“
 
 ### Informationsangebote der Stadt
 - [Informationsseite zum Thema Open Data](https://www.darmstadt.de/standort/statistik-und-stadtforschung/open-data) der Abteilung Statistik und Stadtforschung
