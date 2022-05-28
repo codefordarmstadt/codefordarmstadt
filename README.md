@@ -13,12 +13,8 @@ Eine kuratierte Liste hilfreicher Informationen und Literatur zum Thema Offene D
 - Die Digitalstadt Darmstadt veranstaltet ein [Stadtlabor](https://www.digitalstadt-darmstadt.de/stadtlabor/) mit Bürger:innenbeteiligung.
 - [Smart-City-Projekt „Smart Water City“](https://www.darmstadt.de/standort/stadtentwicklung-und-stadtplanung/schlaues-wasser-darmstadt) (Projektbudget: 14,7 Mio €) zu „smartem Wassermanagement auf Basis digitaler und weiterer Innovationstechnologien“
 
-### Informationsangebote der Stadt
+### Informationen und Beschlüsse zu Open Data
 - [Informationsseite zum Thema Open Data](https://www.darmstadt.de/standort/statistik-und-stadtforschung/open-data) der Abteilung Statistik und Stadtforschung
-- [Informationsseite zur Informationsfreiheitssatzung](https://www.darmstadt.de/rathaus/buerger-dialog/informationsfreiheitssatzung) der Bürgerbeauftragten
-- [Datenplattform der Stadt](https://datenplattform.darmstadt.de/) (*keine* Open-Data-Plattform, sondern nur Visualisierungen)
-
-### Beschlüsse zu Open Data
 - 16.06.2021: [Magistratsvorlage - Aufbau einer einheitlichen Geodateninfrastruktur in Darmstadt](https://darmstadt.more-rubin1.de/meeting.php?id=ni_2021-Mag-677&agenda_item=ni_2021-Mag-677%7C202121606100176%7C1&suchbegriffe=open+data&select_koerperschaft=&select_gremium=&datum_von=2006-01-11&datum_bis=2022-12-13&richtung=ASC&entry=&kriterium=be&x=17&y=13)
     - Der Magistrat nimmt zur Kenntnis, dass das Vermessungsamt in Kooperation mit dem Amt für Digitalisierung und IT, sowie den Ämtern und Verwaltungsstellen die Geodatenbestände aufbauen und aktuell halten, die Voraussetzungen zu Umsetzung der stadtweiten Geodateninfrastruktur schafft.
 - 11.02.2021: [Beschluss der Stadtverordnetenversammlung - Open-Data-Strategie der Wissenschaftsstadt Darmstadt](https://darmstadt.more-rubin1.de/vorlagen_details.php?vid=202121812100005)
@@ -28,13 +24,14 @@ Eine kuratierte Liste hilfreicher Informationen und Literatur zum Thema Offene D
     - Open Data Portal (CKAN) existiert laut Open-Data-Strategie bereits sein 2018 (aber kein Datenbestand)
     - Zustimmung von allen dekomkratischen Fraktionen
 - 01.10.2020 [Beschluss der Stadtverordnetenversammlung - Einrichtung einer Datenplattform im Rahmen des Projektes Digitalstadt Darmstadt](https://darmstadt.more-rubin1.de/vorlagen_details.php?vid=20200508100233)
-    - KEINE Open-Data-Plattform
+    - KEINE Open-Data-Plattform, sondern nur Visualisierungen
     - siehe https://datenplattform.darmstadt.de/
 - 27.09.2018 [Beschluss der Stadtverordnetenversammlung - Open Data Plattform](https://darmstadt.more-rubin1.de/vorlagen_details.php?vid=310407100203)
     - Einrichtung einer Open-Data-Plattform
     - Einrichtung AG Open Data
 
-### Beschlüsse zur Informationsfreiheit
+### Informationen und Beschlüsse zur Informationsfreiheit
+- [Informationsseite zur Informationsfreiheitssatzung](https://www.darmstadt.de/rathaus/buerger-dialog/informationsfreiheitssatzung) der Bürgerbeauftragten
 - 18.11.2021: [Magistratsvorlage 2021/0363 -  Erlass einer Informationsfreiheitssatzung](https://darmstadt.more-rubin1.de/vorlagen_details.php?vid=202121811100364)
     - Im Büro der Bürgerbeauftragten wird über den Stellenplan 2022 eine Stelle für eine:n Informationsfreiheitsbeauftragte:n geschaffen.
     - Die Informationsfreiheitssatzung regelt, dass das Hess. IFG auch für die Stadt Darmstadt gilt (nach § 81 Abs. 1, Nr 7 HDSIG)
