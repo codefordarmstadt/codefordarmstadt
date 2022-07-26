@@ -87,8 +87,10 @@ Was gibt es in Darmstadt schon für offene Daten?
 
 ### Hessen
 Was gibt es in Hessen für interessante Daten? Gibts schon ne Übersicht? (z.B. Luftmessdaten, Daten vom Umweltministerium, Bevölkerungsentwicklung, Nahverkehrsplan)
-* [Lärmkarte](http://laerm.hessen.de/) des [Hessisches Landesamt für Naturschutz, Umwelt und Geologie](https://www.hlnug.de/)
-* [Karte des Hessisches Naturschutzinformationssystem](http://natureg.hessen.de) des [Hessisches Landesamt für Naturschutz, Umwelt und Geologie](https://www.hlnug.de/)
+* [Hessisches Landesamt für Naturschutz, Umwelt und Geologie (HLNUG)](https://www.hlnug.de/)
+  * [Lärmkarte](http://laerm.hessen.de/): Umgebungslärmkartierung
+  * [Hessisches Naturschutzinformationssystem](http://natureg.hessen.de): Daten zu Naturschutz in Hessen (Karte)
+  * [Messdatenportal](https://www.hlnug.de/messwerte/datenportal): Luft-, Wasser- und Readioaktivitätsmesswerte
 * [Open-Data-Portal des RMV](https://opendata.rmv.de/site/start.html)
   * RMV kennt "Livedaten" selbst nur mit 20 bis 50 Sekunden Verzögerung
   * Hier [ein Projekt](https://darmstart.de/) unter [AGPL](https://www.gnu.org/licenses/agpl-3.0)-Lizenz vom [Chaos Darmstadt](https://www.chaos-darmstadt.de), dass die Daten nutzt. Quellcode findet man [hier](https://git.darmstadt.ccc.de/cda/publictransport/).
